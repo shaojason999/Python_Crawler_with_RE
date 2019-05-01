@@ -9,3 +9,23 @@
 把頭尾的很多0去掉，預設為空白符  
 4. title=r.split("title is-5 mathjax\">")[1].split("\</p>")[0].strip()  
 為取一個區間的辦法，然後再去掉頭尾  
+
+## 畫圖套件
+1. 安裝畫圖用的matplotlib.pyplot
+```
+$ sudo pip install --upgrade pip
+$ sudo pip install matplotlib
+$ sudo apt install python3-tk
+```
+2. 畫圖方式
+```python
+import matplotlib.pyplot as plt
+x=[1,2,3]
+y=[1,2,3]
+#設定y軸刻度為1，範圍為0~3
+plt.yticks(range(0,3+1,1))
+plt.bar(x,y)
+plt.show()
+```
+
+參考資料 [No module named _tkinter](https://blog.csdn.net/blueheart20/article/details/78763208)
