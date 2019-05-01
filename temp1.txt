@@ -1,0 +1,64 @@
+[ Author: Ian+Goodfellow ]
+Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition
+A Research Agenda: Dynamic Models to Defend Against Correlated Attacks
+On Evaluating Adversarial Robustness
+New CleverHans Feature: Better Adversarial Robustness Evaluations with Attack Bundling
+Discriminator Rejection Sampling
+Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values
+Sanity Checks for Saliency Maps
+Unrestricted Adversarial Examples
+Skill Rating for Generative Models
+TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing
+Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer
+Motivating the Rules of the Game for Adversarial Example Research
+Adversarial Reprogramming of Neural Networks
+Defense Against the Dark Arts: An overview of adversarial example security research and future research directions
+Self-Attention Generative Adversarial Networks
+Realistic Evaluation of Deep Semi-Supervised Learning Algorithms
+Gradient Masking Causes CLEVER to Overestimate Adversarial Perturbation Size
+Adversarial Attacks and Defences Competition
+Adversarial Logit Pairing
+Is Generator Conditioning Causally Related to GAN Performance?
+Adversarial Examples that Fool both Computer Vision and Time-Limited Humans
+MaskGAN: Better Text Generation via Filling in the______
+Adversarial Spheres
+Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step
+On the Protection of Private Information in Machine Learning Systems: Two Recent Approaches
+Ensemble Adversarial Training: Attacks and Defenses
+The Space of Transferable Adversarial Examples
+Adversarial Attacks on Neural Network Policies
+NIPS 2016 Tutorial: Generative Adversarial Networks
+Adversarial Machine Learning at Scale
+Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data
+Technical Report on the CleverHans v2.1.0 Adversarial Examples Library
+Adversarial examples in the physical world
+Deep Learning with Differential Privacy
+Improved Techniques for Training GANs
+Adversarial Training Methods for Semi-Supervised Text Classification
+Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples
+Unsupervised Learning for Physical Interaction through Video Prediction
+Theano: A Python framework for fast computation of mathematical expressions
+Improving the Robustness of Deep Neural Networks via Stability Training
+TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+Practical Black-Box Attacks against Machine Learning
+Adversarial Autoencoders
+Net2Net: Accelerating Learning via Knowledge Transfer
+Efficient Per-Example Gradient Computations
+Explaining and Harnessing Adversarial Examples
+Qualitatively characterizing neural network optimization problems
+On distinguishability criteria for estimating generative models
+Generative Adversarial Networks
+An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks
+Intriguing properties of neural networks
+An empirical analysis of dropout in piecewise linear networks
+Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
+On the Challenges of Physical Implementations of RBMs
+Pylearn2: a machine learning research library
+Challenges in Representation Learning: A report on three machine learning contests
+Maxout Networks
+Piecewise Linear Multilayer Perceptrons and Dropout
+Joint Training Deep Boltzmann Machines for Classification
+Joint Training of Deep Boltzmann Machines
+Theano: new features and speed improvements
+Large-Scale Feature Learning With Spike-and-Slab Sparse Coding
+Spike-and-Slab Sparse Coding for Unsupervised Feature Discovery
