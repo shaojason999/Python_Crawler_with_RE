@@ -27,5 +27,6 @@ plt.yticks(range(0,3+1,1))
 plt.bar(x,y)
 plt.show()
 ```
-
-參考資料 [No module named _tkinter](https://blog.csdn.net/blueheart20/article/details/78763208)
+參考資料  
+[No module named _tkinter](https://blog.csdn.net/blueheart20/article/details/78763208)  
+[Changing the “tick frequency” on x or y axis in matplotlib?](https://stackoverflow.com/questions/12608788/changing-the-tick-frequency-on-x-or-y-axis-in-matplotlib)  
