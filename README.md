@@ -8,7 +8,7 @@
 3. str.strip('0')  
 把頭尾的很多0去掉，預設為空白符  
 4. title=r.split("title is-5 mathjax\">")[1].split("\</p>")[0].strip()  
-為取一個區間的辦法，然後再去掉頭尾  
+為取一個區間的辦法，然後再去掉頭尾空格  
 
 ## 畫圖套件
 1. 安裝畫圖用的matplotlib.pyplot
