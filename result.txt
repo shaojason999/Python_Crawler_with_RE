@@ -1,0 +1,206 @@
+[ Author: Ian Goodfellow ]
+Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition
+A Research Agenda: Dynamic Models to Defend Against Correlated Attacks
+On Evaluating Adversarial Robustness
+New CleverHans Feature: Better Adversarial Robustness Evaluations with Attack Bundling
+Discriminator Rejection Sampling
+Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values
+Sanity Checks for Saliency Maps
+Unrestricted Adversarial Examples
+Skill Rating for Generative Models
+TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing
+Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer
+Motivating the Rules of the Game for Adversarial Example Research
+Adversarial Reprogramming of Neural Networks
+Defense Against the Dark Arts: An overview of adversarial example security research and future research directions
+Self-Attention Generative Adversarial Networks
+Gradient Masking Causes CLEVER to Overestimate Adversarial Perturbation Size
+Adversarial Attacks and Defences Competition
+Adversarial Logit Pairing
+Is Generator Conditioning Causally Related to GAN Performance?
+Adversarial Examples that Fool both Computer Vision and Time-Limited Humans
+MaskGAN: Better Text Generation via Filling in the______
+Adversarial Spheres
+Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step
+On the Protection of Private Information in Machine Learning Systems: Two Recent Approaches
+Ensemble Adversarial Training: Attacks and Defenses
+The Space of Transferable Adversarial Examples
+Adversarial Attacks on Neural Network Policies
+NIPS 2016 Tutorial: Generative Adversarial Networks
+Adversarial Machine Learning at Scale
+Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data
+Technical Report on the CleverHans v2.1.0 Adversarial Examples Library
+Adversarial examples in the physical world
+Deep Learning with Differential Privacy
+Improved Techniques for Training GANs
+Adversarial Training Methods for Semi-Supervised Text Classification
+Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples
+Unsupervised Learning for Physical Interaction through Video Prediction
+Improving the Robustness of Deep Neural Networks via Stability Training
+TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+Practical Black-Box Attacks against Machine Learning
+Adversarial Autoencoders
+Net2Net: Accelerating Learning via Knowledge Transfer
+Efficient Per-Example Gradient Computations
+Intriguing properties of neural networks
+Joint Training of Deep Boltzmann Machines
+Theano: new features and speed improvements
+Large-Scale Feature Learning With Spike-and-Slab Sparse Coding
+[ end of title list ]
+
+[ Co-author list ]
+Aaron Courville: 2 times
+Abhibhav Garg: 1 times
+Alan Yuille: 1 times
+Alec Radford: 1 times
+Aleksander Madry: 1 times
+Alex Kurakin: 1 times
+Alexander Matyasko: 1 times
+Alexey Kurakin: 7 times
+Alireza Makhzani: 1 times
+Ananthram Swami: 1 times
+Andrew Harp: 1 times
+Andrew M. Dai: 3 times
+Andy Chu: 1 times
+Andy Davis: 1 times
+Anish Athalye: 1 times
+Arnaud Bergeron: 1 times
+Ashish Agarwal: 1 times
+Augustus Odena: 5 times
+Aurko Roy: 2 times
+Balaji Lakshminarayanan: 1 times
+Been Kim: 2 times
+Brendan Frey: 1 times
+Brian Cheung: 1 times
+Catherine Olsson: 4 times
+Chelsea Finn: 1 times
+Chiyuan Zhang: 1 times
+Chris Olah: 1 times
+Christian Szegedy: 1 times
+Christopher Olah: 1 times
+Cihang Xie: 2 times
+Colin Raffel: 3 times
+Craig Citro: 1 times
+Dan Boneh: 2 times
+Dan Mane: 1 times
+David Andersen: 1 times
+David Berthelot: 2 times
+David Warde-Farley: 1 times
+Derek Murray: 1 times
+Dimitris Metaxas: 1 times
+Dimitris Tsipras: 1 times
+Dumitru Erhan: 1 times
+Eugene Brevdo: 1 times
+Fangzhou Liao: 1 times
+Fartash Faghri: 2 times
+Florian Tramèr: 2 times
+Frédéric Bastien: 1 times
+Gamaleldin F. Elsayed: 2 times
+Garrison Cottrell: 1 times
+Geoffrey Irving: 1 times
+George E. Dahl: 1 times
+Greg S. Corrado: 1 times
+H. Brendan McMahan: 2 times
+Han Zhang: 1 times
+Harini Kannan: 1 times
+Ian Goodfellow: 47 times
+Ilya Mironov: 2 times
+Ilya Sutskever: 1 times
+Jacob Buckman: 1 times
+James Bergstra: 1 times
+Jascha Sohl-Dickstein: 2 times
+Jeffrey Dean: 1 times
+Jianyu Wang: 1 times
+Joan Bruna: 1 times
+Jonas Rauber: 2 times
+Jonathan Uesato: 1 times
+Jonathon Shlens: 2 times
+Josh Levenberg: 1 times
+Julius Adebayo: 2 times
+Jun Zhu: 1 times
+Junjiajia Long: 1 times
+Justin Gilmer: 4 times
+Karen Hambardzumyan: 1 times
+Kunal Talwar: 3 times
+Li Zhang: 2 times
+Lukasz Kaiser: 1 times
+Luke Metz: 1 times
+Maithra Raghu: 1 times
+Manjunath Kudlur: 1 times
+Martin Wattenberg: 1 times
+Martín Abadi: 4 times
+Matthieu Devin: 1 times
+Michael Isard: 1 times
+Michael Muelly: 1 times
+Mihaela Rosca: 1 times
+Ming Liang: 1 times
+Moritz Hardt: 1 times
+Motoki Abe: 1 times
+Navdeep Jaitly: 1 times
+Nicholas Carlini: 4 times
+Nicolas Bouchard: 1 times
+Nicolas Papernot: 10 times
+Pascal Lamblin: 1 times
+Patrick McDaniel: 4 times
+Paul Barham: 1 times
+Paul Christiano: 1 times
+Paul Hendricks: 1 times
+Pieter Abbeel: 1 times
+Rafal Jozefowicz: 1 times
+Rajat Monga: 1 times
+Razvan Pascanu: 1 times
+Reuben Feinman: 1 times
+Rob Fergus: 1 times
+Rujun Long: 1 times
+Ryan P. Adams: 1 times
+Ryan Sheatsley: 1 times
+Samaneh Azadi: 1 times
+Samuel S. Schoenholz: 1 times
+Samy Bengio: 3 times
+Sandy Huang: 1 times
+Sangxia Huang: 1 times
+Sanjay Ghemawat: 1 times
+Seiya Tokui: 1 times
+Sergey Levine: 1 times
+Shakir Mohamed: 1 times
+Sherry Moore: 1 times
+Shreya Shankar: 1 times
+Somesh Jha: 1 times
+Stephan Zheng: 1 times
+Surya Bhupatiraju: 1 times
+Takeru Miyato: 1 times
+Takuya Akiba: 1 times
+Thomas Leung: 1 times
+Tianqi Chen: 1 times
+Tianyu Pang: 1 times
+Tim Salimans: 1 times
+Tom B. Brown: 2 times
+Tom Brown: 2 times
+Trevor Darrell: 1 times
+Vahid Behzadan: 1 times
+Vicki Cheung: 1 times
+Wieland Brendel: 1 times
+Willi Gierke: 1 times
+William Fedus: 2 times
+Wojciech Zaremba: 2 times
+Xi Chen: 1 times
+Xiaolin Hu: 1 times
+Yan Duan: 1 times
+Yang Song: 1 times
+Yangqing Jia: 1 times
+Yao Qin: 1 times
+Yao Zhao: 1 times
+Yash Sharma: 1 times
+Yerkebulan Berdibekov: 1 times
+Yi-Lin Juang: 1 times
+Yinpeng Dong: 2 times
+Yoshua Bengio: 3 times
+Yuzhe Zhao: 1 times
+Z. Berkay Celik: 1 times
+Zhi Li: 1 times
+Zhifeng Chen: 1 times
+Zhishuai Zhang: 2 times
+Zhonglin Han: 1 times
+Zhou Ren: 1 times
+Úlfar Erlingsson: 2 times
+[ end of coauthor list ]
