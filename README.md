@@ -1,4 +1,4 @@
-# Python-Crawler-with-RE
+# Python Crawler with RE
 
 ## 程式目的與說明
 1. 將arXiv的特定作者相關資訊抓取出來
