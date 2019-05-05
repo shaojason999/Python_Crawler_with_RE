@@ -84,7 +84,7 @@ while error == []:
 					title = l_r.split("title is-5 mathjax\">")[1].split("</p>")[0].strip()
 					print(title)
 
-					# find the originally announced years"
+					# find the originally announced years
 					date = l_r.split("originally announced</span>")[1].split("</p>")[0].strip()
 					year = re.findall("[0-9]+", date)
 					year_ans.append(year[0])
